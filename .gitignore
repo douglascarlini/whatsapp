@@ -1,0 +1,14 @@
+**/.DS_Store
+
+/bot/.wwebjs_cache
+/bot/node_modules
+/bot/worker.js
+/bot/data
+/bot/lib
+/bot/api
+
+/app/*
+/data
+*.sh
+
+.env
